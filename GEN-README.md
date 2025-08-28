@@ -1,2 +1,19 @@
 # ***Developing AI Agents using GenAI***
 
+## ***1. Chain of Thought Prompting***
+
+***What it is:***
+
+>#### A prompting technique where the AI is guided to reason step by step before giving the final answer.
+
+***How we use it in EvoDoc:***
+
+***When parsing a prescription, the AI reasons like:***
+
+- ***Step 1: Identify the medicine name.***
+
+- ***Step 2: Identify the dosage and frequency.***
+
+- ***Step 3: Generate a patient-friendly explanation.***
+
+**Why:** $Ensures$ $accurate,$ $stepwise$ $extraction$ $and$ $explanation,$ $reducing$ $errors$ $in$ $complex$ $prescriptions.$
