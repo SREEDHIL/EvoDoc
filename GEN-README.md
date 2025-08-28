@@ -58,3 +58,17 @@ $keyword$ $matching.$
 - ***Ensures structured, safe, and predictable output.***
 
 **Why:** $Prevents$ $hallucinations$ $and$ $standardizes$ $outputs$ $for$ $downstream$ $use.$
+
+## ***5. Multi-shot Prompting***
+
+***What it is:***
+
+>#### Providing multiple examples in a prompt to teach the AI patterns.
+
+***How we use it:***
+
+- ***Show examples of previous prescriptions and their plain-English explanations.***
+
+- ***AI learns to apply the same structure to new prescriptions.***
+
+**Why:** $Improves$ $accuracy$ $and$ $consistency$ $of$ $explanations.$
