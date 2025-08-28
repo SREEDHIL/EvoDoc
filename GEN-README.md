@@ -84,3 +84,15 @@ $keyword$ $matching.$
 ***For simple prescriptions, a single example suffices to guide the AI.***
 
 **Why:** $Saves$ $tokens$ $and$ $still$ $guides$ $AI$ $effectively$ $for$ $small$ $tasks.$
+
+## ***7. Stop Sequence***
+
+***What it is:***
+
+>#### A mechanism to tell the AI where to stop generating text.
+
+***How we use it:***
+
+- ***Ensures the AI stops after the prescription explanation, avoiding extra irrelevant text.***
+
+**Why:** $Keeps$ $outputs$ $concise$ $and$ $usable$ $in$ $the$ $UI.$
