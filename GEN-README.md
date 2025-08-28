@@ -123,3 +123,17 @@ $keyword$ $matching.$
 - ***User prompt contains the uploaded prescription text.***
 
 **Why:** $RTFC$ $(Read$ $The$ $Fine$ $Context)$ $framework$ $ensures$ $AI$ $interprets$ $instructions$ $correctly.$
+
+## ***10. Temperature***
+
+***What it is:***
+
+>#### Controls randomness in AI responses.
+
+***How we use it:***
+
+- ***Low temperature for precise, factual explanations (e.g., 0.2).***
+
+- ***Higher temperature if you want slightly more natural or conversational text.***
+
+**Why:** $Balances$ $accuracy$ $vs.$ $creativity.$
