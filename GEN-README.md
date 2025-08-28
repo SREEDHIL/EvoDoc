@@ -17,15 +17,3 @@
 - ***Step 3: Generate a patient-friendly explanation.***
 
 **Why:** $Ensures$ $accurate,$ $stepwise$ $extraction$ $and$ $explanation,$ $reducing$ $errors$ $in$ $complex$ $prescriptions.$
-
-## ***2. Dynamic Prompting***
-
-***What it is:***
-
->#### Prompts that adapt based on input, instead of being fixed.
-
-***How we use it:***
-
-- ***If the prescription contains new drug names or instructions, the prompt dynamically changes to include those details for better explanation.***
-
-**Why:** $Makes$ $AI$ $responses$ $context-aware$ $and$ $accurate$ $for$ $any$ $prescription.$
