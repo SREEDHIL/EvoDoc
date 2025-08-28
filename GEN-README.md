@@ -29,3 +29,18 @@
 - ***If the prescription contains new drug names or instructions, the prompt dynamically changes to include those details for better explanation.***
 
 **Why:** $Makes$ $AI$ $responses$ $context-aware$ $and$ $accurate$ $for$ $any$ $prescription.$
+
+## ***3. Embeddings***
+
+***What it is:***
+
+>#### Numerical vector representations of text used by AI to understand semantic meaning.
+
+***How we use it:***
+
+- ***Prescription text and drug information are converted into embeddings.***
+
+- ***These embeddings allow the AI to find similar drugs, dosages, or instructions in the database.***
+
+**Why:** $Enables$ $semantic$ $search$ $and$ $RAG$ $(Retrieval-Augmented$ $Generation)$ $without$ $relying$ $only$ $on$ 
+$keyword$ $matching.$
