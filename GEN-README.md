@@ -163,3 +163,15 @@ $keyword$ $matching.$
 - ***Limits AI options to avoid irrelevant or unsafe outputs.***
 
 **Why:** $Controls$ $diversity$ $while$ $maintaining$ $accuracy.$
+
+## ***13. Top P***
+
+***What it is:***
+
+>#### Chooses tokens from the top cumulative probability mass P.
+
+***How we use it:***
+
+- ***Used with temperature and top K to fine-tune AI creativity vs. precision.***
+
+**Why:** $Ensures$ $AI$ $doesn’t$ $hallucinate$ $while$ $still$ $producing$ $natural$ $text.$
