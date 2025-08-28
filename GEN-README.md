@@ -137,3 +137,17 @@ $keyword$ $matching.$
 - ***Higher temperature if you want slightly more natural or conversational text.***
 
 **Why:** $Balances$ $accuracy$ $vs.$ $creativity.$
+
+## ***11. Tokens and Tokenization***
+
+***What it is:***
+
+>#### Tokens are chunks of text AI reads or generates.
+
+***How we use it:***
+
+- ***Track token usage for cost management and optimization.***
+
+- ***Ensure prompts + responses stay within model limits.***
+
+**Why:** $Helps$ $manage$ $API$ $costs$ $and$ $model$ $efficiency.$
