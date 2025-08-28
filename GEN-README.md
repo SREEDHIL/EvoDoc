@@ -151,3 +151,15 @@ $keyword$ $matching.$
 - ***Ensure prompts + responses stay within model limits.***
 
 **Why:** $Helps$ $manage$ $API$ $costs$ $and$ $model$ $efficiency.$
+
+## ***12. Top K***
+
+***What it is:***
+
+>#### Selects the top K most probable next tokens for AI to choose from.
+
+***How we use it:***
+
+- ***Limits AI options to avoid irrelevant or unsafe outputs.***
+
+**Why:** $Controls$ $diversity$ $while$ $maintaining$ $accuracy.$
