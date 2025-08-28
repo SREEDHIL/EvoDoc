@@ -72,3 +72,15 @@ $keyword$ $matching.$
 - ***AI learns to apply the same structure to new prescriptions.***
 
 **Why:** $Improves$ $accuracy$ $and$ $consistency$ $of$ $explanations.$
+
+## ***6. One-shot Prompting***
+
+***What it is:***
+
+>#### Providing only one example in the prompt to guide the AI.
+
+***How we use it:***
+
+***For simple prescriptions, a single example suffices to guide the AI.***
+
+**Why:** $Saves$ $tokens$ $and$ $still$ $guides$ $AI$ $effectively$ $for$ $small$ $tasks.$
