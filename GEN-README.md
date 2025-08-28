@@ -44,3 +44,17 @@
 
 **Why:** $Enables$ $semantic$ $search$ $and$ $RAG$ $(Retrieval-Augmented$ $Generation)$ $without$ $relying$ $only$ $on$ 
 $keyword$ $matching.$
+
+## ***4. Function Calling***
+
+***What it is:***
+
+>#### LLMs can call pre-defined functions for structured tasks instead of generating free text.
+
+***How we use it:***
+
+- ***The AI calls functions like parse_drug_info() or generate_patient_explanation().***
+
+- ***Ensures structured, safe, and predictable output.***
+
+**Why:** $Prevents$ $hallucinations$ $and$ $standardizes$ $outputs$ $for$ $downstream$ $use.$
