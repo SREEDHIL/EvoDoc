@@ -96,3 +96,15 @@ $keyword$ $matching.$
 - ***Ensures the AI stops after the prescription explanation, avoiding extra irrelevant text.***
 
 **Why:** $Keeps$ $outputs$ $concise$ $and$ $usable$ $in$ $the$ $UI.$
+
+## ***8. Structured Output***
+
+***What it is:***
+
+>#### Instead of plain text, AI outputs structured JSON or tables.
+
+***How we use it:***
+
+- ***Example: { "drug": "Paracetamol", "dosage": "500mg", "instructions": "Twice daily" }***
+
+**Why:** $Easy$ $to$ $display$ $in$ $frontend$ $and$ $for$ $further$ $processing$ $or$ $storage.$
