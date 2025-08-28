@@ -175,3 +175,17 @@ $keyword$ $matching.$
 - ***Used with temperature and top K to fine-tune AI creativity vs. precision.***
 
 **Why:** $Ensures$ $AI$ $doesn’t$ $hallucinate$ $while$ $still$ $producing$ $natural$ $text.$
+
+## ***14. Vector Database***
+
+***What it is:***
+
+>#### Database storing embeddings for semantic search.
+
+***How we use it:***
+
+- ***Store prescription-related info and trusted drug data as vectors.***
+
+- ***Query the database to fetch contextually relevant drug info during RAG.***
+
+**Why:** $Provides$ $fast,$ $accurate,$ $and$ $context-aware$ $AI$ $retrieval.$
