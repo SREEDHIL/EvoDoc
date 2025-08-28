@@ -189,3 +189,15 @@ $keyword$ $matching.$
 - ***Query the database to fetch contextually relevant drug info during RAG.***
 
 **Why:** $Provides$ $fast,$ $accurate,$ $and$ $context-aware$ $AI$ $retrieval.$
+
+## ***15. Zero-shot Prompting***
+
+***What it is:***
+
+>#### AI is asked to perform a task without any examples.
+
+***How we use it:***
+
+- ***For new drugs or prescriptions not seen before, AI uses zero-shot reasoning to parse and explain.***
+
+**Why:** $Makes$ $the$ $system$ $flexible$ $for$ $unseen$ $inputs.$
