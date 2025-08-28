@@ -108,3 +108,18 @@ $keyword$ $matching.$
 - ***Example: { "drug": "Paracetamol", "dosage": "500mg", "instructions": "Twice daily" }***
 
 **Why:** $Easy$ $to$ $display$ $in$ $frontend$ $and$ $for$ $further$ $processing$ $or$ $storage.$
+
+## ***9. System and User Prompt***
+
+***What it is:***
+
+>#### System prompt: Defines AI behavior.
+>#### User prompt: The actual query or input.
+
+***How we use it:***
+
+- ***System prompt instructs AI to behave as a medical assistant.***
+
+- ***User prompt contains the uploaded prescription text.***
+
+**Why:** $RTFC$ $(Read$ $The$ $Fine$ $Context)$ $framework$ $ensures$ $AI$ $interprets$ $instructions$ $correctly.$
