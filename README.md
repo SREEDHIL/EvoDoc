@@ -69,33 +69,42 @@ $Doctors$ $often$ $write$ $prescriptions$ $in$ $unreadable$ $handwriting,$ $maki
 EvoDoc/
 ├── backend/
 │   ├── app/
-│   │   ├── main.py                # FastAPI entry point
+│   │   ├── main.py
 │   │   ├── routes/
-│   │   │   ├── prescription.py    # Upload, OCR & AI processing
-│   │   │   ├── auth.py            # Authentication & JWT
+│   │   │   ├── prescription.py
+│   │   │   ├── auth.py
 │   │   ├── services/
-│   │   │   ├── ocr_service.py     # Google Vision integration
-│   │   │   ├── llm_service.py     # Vertex AI text generation
-│   │   │   ├── vector_service.py  # Matching Engine for RAG
+│   │   │   ├── ocr_service.py
+│   │   │   ├── llm_service.py
+│   │   │   ├── vector_service.py
+│   │   │   ├── gcs_service.py
 │   │   ├── models/
-│   │   │   ├── prescription.py    # MongoDB schemas
+│   │   │   ├── prescription.py
 │   │   ├── utils/
-│   │   │   ├── security.py        # HIPAA compliance & encryption
-│   │   ├── config.py              # GCP & MongoDB configs
-│   ├── requirements.txt           # Backend dependencies
-│   ├── Dockerfile                 # Containerization
+│   │   │   ├── security.py
+│   │   │   ├── tokenizer.py
+│   │   ├── config.py
+│   ├── requirements.txt
+│   ├── Dockerfile
 │
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
+│   │   │   ├── UploadPrescription.jsx
+│   │   │   ├── ExplanationCard.jsx
 │   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Explain.jsx
 │   │   ├── App.jsx
+│   │   ├── main.jsx
 │   ├── package.json
+│   ├── tailwind.config.js
 │
 ├── docs/
 │   ├── API_Documentation.md
+│   ├── Architecture.png
 │
-├── .env.example                   # Example environment variables
+├── .env.example
 ├── README.md
 
 ```
